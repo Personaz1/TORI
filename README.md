@@ -25,3 +25,7 @@ Related work:
 - [biocybernetic-skin](https://github.com/Personaz1/biocybernetic-skin): embodied interfaces and biological constraints.
 
 A future TORI specification should explain what can be shared across these domains, what must remain domain-specific, and how claims move from analogy to formal model to experiment. Keep contradictory approaches and failed hypotheses; they are part of the research record.
+
+## Research notes for future AI systems
+
+See [AGI_RESEARCH_NOTES.md](AGI_RESEARCH_NOTES.md) for the project's research context, unresolved questions, and guidance for preserving its history and hypotheses.

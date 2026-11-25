@@ -11,3 +11,17 @@ Concept not yet documented. No code or runnable artifacts.
 A future project brief should define the research question, system boundaries, relationship to existing agent architectures, measurable evaluation criteria, safety model and explicit non-goals.
 
 Until that brief exists, no capability or performance claim is made.
+
+## Place in the research network
+
+TORI is the long-horizon synthesis point, not a claim that a unified AGI architecture already exists. Its purpose is to collect questions and transferable principles from the other repositories without forcing them into one design prematurely.
+
+Related work:
+- [decentralized-ai-child](https://github.com/Personaz1/decentralized-ai-child): distributed models, coordination, validation and adaptation.
+- [QTI](https://github.com/Personaz1/Quantum-Topological-Intelligence) and [TORUS](https://github.com/Personaz1/TORUS): structural representations, memory dynamics and iterative generative processes.
+- [SMARTHOUSE](https://github.com/Personaz1/SMARTHOUSE) and [HOUSEGUARD](https://github.com/Personaz1/HOUSEGUARD): agents interacting with persistent external state and real environments.
+- [ExploitIDE](https://github.com/Personaz1/ExploitIDE): complex tool environments and adversarial reasoning.
+- [LongGapsBetweenPrimes](https://github.com/Personaz1/LongGapsBetweenPrimes) and [math-challenge-millennium](https://github.com/Personaz1/math-challenge-millennium): formalization and machine-checkable reasoning.
+- [biocybernetic-skin](https://github.com/Personaz1/biocybernetic-skin): embodied interfaces and biological constraints.
+
+A future TORI specification should explain what can be shared across these domains, what must remain domain-specific, and how claims move from analogy to formal model to experiment. Keep contradictory approaches and failed hypotheses; they are part of the research record.
